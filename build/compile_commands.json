@@ -1,0 +1,17 @@
+[
+{
+  "directory": "C:/Users/frede/OneDrive/Skrivebord/Programmering/Afleveringsbeskrivelse/assignment-12-Frederikl99/build",
+  "command": "C:\\MingW\\bin\\x86_64-w64-mingw32-g++.exe  @CMakeFiles/mymath.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\mymath.dir\\src\\duration.cpp.obj -c C:\\Users\\frede\\OneDrive\\Skrivebord\\Programmering\\Afleveringsbeskrivelse\\assignment-12-Frederikl99\\src\\duration.cpp",
+  "file": "C:/Users/frede/OneDrive/Skrivebord/Programmering/Afleveringsbeskrivelse/assignment-12-Frederikl99/src/duration.cpp"
+},
+{
+  "directory": "C:/Users/frede/OneDrive/Skrivebord/Programmering/Afleveringsbeskrivelse/assignment-12-Frederikl99/build",
+  "command": "C:\\MingW\\bin\\x86_64-w64-mingw32-g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\main.dir\\src\\main.cpp.obj -c C:\\Users\\frede\\OneDrive\\Skrivebord\\Programmering\\Afleveringsbeskrivelse\\assignment-12-Frederikl99\\src\\main.cpp",
+  "file": "C:/Users/frede/OneDrive/Skrivebord/Programmering/Afleveringsbeskrivelse/assignment-12-Frederikl99/src/main.cpp"
+},
+{
+  "directory": "C:/Users/frede/OneDrive/Skrivebord/Programmering/Afleveringsbeskrivelse/assignment-12-Frederikl99/build/tests",
+  "command": "C:\\MingW\\bin\\x86_64-w64-mingw32-g++.exe  @CMakeFiles/tests.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\tests.dir\\src\\tests.cpp.obj -c C:\\Users\\frede\\OneDrive\\Skrivebord\\Programmering\\Afleveringsbeskrivelse\\assignment-12-Frederikl99\\tests\\src\\tests.cpp",
+  "file": "C:/Users/frede/OneDrive/Skrivebord/Programmering/Afleveringsbeskrivelse/assignment-12-Frederikl99/tests/src/tests.cpp"
+}
+]
