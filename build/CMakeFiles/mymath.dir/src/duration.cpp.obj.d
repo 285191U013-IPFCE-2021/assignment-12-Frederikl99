@@ -13,7 +13,7 @@ CMakeFiles/mymath.dir/src/duration.cpp.obj: \
  C:/MingW/x86_64-w64-mingw32/include/swprintf.inl \
  C:/MingW/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
  C:/MingW/x86_64-w64-mingw32/include/_mingw_print_pop.h \
- C:/Users/frede/OneDrive/Skrivebord/Programmering/Afleveringsbeskrivelse/assignment-12-Frederikl99/src/duration.h \
+ C:/Users/frede/OneDrive/Skrivebord/Programmering/Afleveringsbeskrivelse/assignment-12-Frederikl99/include/duration.h \
  C:/MingW/x86_64-w64-mingw32/include/assert.h \
  C:/MingW/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/stdlib.h \
  C:/MingW/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/cstdlib \

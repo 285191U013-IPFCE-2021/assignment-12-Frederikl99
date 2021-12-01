@@ -15,7 +15,7 @@ CMakeFiles/mymath.dir/src/duration.cpp.obj: ../src/duration.cpp \
   C:/MingW/x86_64-w64-mingw32/include/swprintf.inl \
   C:/MingW/x86_64-w64-mingw32/include/sec_api/stdio_s.h \
   C:/MingW/x86_64-w64-mingw32/include/_mingw_print_pop.h \
-  ../src/duration.h \
+  ../include/duration.h \
   C:/MingW/x86_64-w64-mingw32/include/assert.h \
   C:/MingW/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/stdlib.h \
   C:/MingW/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/cstdlib \
@@ -65,11 +65,11 @@ C:/MingW/x86_64-w64-mingw32/include/sec_api/stdio_s.h:
 
 C:/MingW/x86_64-w64-mingw32/include/_mingw_print_pop.h:
 
-../src/duration.h:
-
 C:/MingW/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32/bits/cpu_defines.h:
 
 C:/MingW/x86_64-w64-mingw32/include/assert.h:
+
+../include/duration.h:
 
 C:/MingW/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/stdlib.h:
 

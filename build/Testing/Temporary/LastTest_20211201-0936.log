@@ -1,0 +1,21 @@
+Start testing: Dec 01 11:12 Rom, normaltid
+----------------------------------------------------------
+1/1 Testing: usage_test
+1/1 Test: usage_test
+Command: "C:/Users/frede/OneDrive/Skrivebord/Programmering/Afleveringsbeskrivelse/assignment-12-Frederikl99/build/tests/tests.exe"
+Directory: C:/Users/frede/OneDrive/Skrivebord/Programmering/Afleveringsbeskrivelse/assignment-12-Frederikl99/build/tests
+"usage_test" start time: Dec 01 11:12 Rom, normaltid
+Output:
+----------------------------------------------------------
+===============================================================================
+All tests passed (11 assertions in 4 test cases)
+
+<end of output>
+Test time =   0.07 sec
+----------------------------------------------------------
+Test Passed.
+"usage_test" end time: Dec 01 11:12 Rom, normaltid
+"usage_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Dec 01 11:12 Rom, normaltid

@@ -385,7 +385,7 @@ tests/CMakeFiles/tests.dir/src/tests.cpp.obj: ../tests/src/tests.cpp \
   C:/MingW/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/regex_executor.h \
   C:/MingW/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/regex_executor.tcc \
   C:/MingW/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/iostream \
-  ../src/duration.h
+  ../include/duration.h
 
 
 C:/MingW/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/concept_check.h:
@@ -918,6 +918,8 @@ C:/MingW/lib/gcc/x86_64-w64-mingw32/8.1.0/include/avx512vpopcntdqvlintrin.h:
 
 C:/MingW/x86_64-w64-mingw32/include/driverspecs.h:
 
+../include/duration.h:
+
 C:/MingW/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/regex_compiler.h:
 
 C:/MingW/x86_64-w64-mingw32/include/winnt.h:
@@ -1139,5 +1141,3 @@ C:/MingW/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/regex_executor.h:
 C:/MingW/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/regex_executor.tcc:
 
 C:/MingW/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/iostream:
-
-../src/duration.h:

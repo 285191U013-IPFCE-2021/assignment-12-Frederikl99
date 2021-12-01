@@ -1,2 +1,2 @@
-usage_test 3 0.0588309
+usage_test 7 0.0615544
 ---

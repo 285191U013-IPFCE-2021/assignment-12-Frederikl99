@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "..\src\duration.h"
+#include "..\include\duration.h"
 #include <assert.h>
 
 int Duration::getDuration()
@@ -21,12 +21,12 @@ Duration::Duration(int t)
     ResetAlarm();
 }
 
-// void Duration::tick()
-// {
+void Duration::tick()
+{
 
-//     time++;
+    time++;
 
-// }
+}
 
 bool Duration::Tick(int dt)
 {
@@ -60,13 +60,13 @@ bool Duration::checkAndUpdateAlarm()
 {
 if(alarmHasBeenSet == true)
     {
-        if(time >= alarm) // If time overreach the alarm, the alarm has to be reset 
+        if(time >= alarm) // If time overreach or is equal to the alarm, it has to be reset 
         { 
             ResetAlarm();
             return true;
         }
         else 
-            return false;
+            return false; // If the time doesn't overreach or is equal to the alarm we return false
         
     }
     else
